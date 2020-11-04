@@ -5,6 +5,8 @@ A super minimal recipe website, now optimized for use in GitHub Pages & GitHub A
 
 Thank you [AN0DA](https://github.com/AN0DA) for giving me this idea, feel free to visit his GitHub!
 
+All you need to do is just fork this repository and add the SSH key pair to Deploy keys and DEPLOY_KEY Secret.
+
 Create a new recipe as a [Markdown file](https://daringfireball.net/projects/markdown), dump it in a folder and upload. The list will auto-populate and each recipe is displayed in a nice, clean format designed for use while cooking or at the grocery store. Great for keeping track of family recipes, mods to ones you find online, or have created yourself!
 
 Each recipe will auto-generate links to a Google image search for that dish, recipes on Serious Eats and Google, and for restaurants on Yelp (in case you burn something and need takeout fast).
