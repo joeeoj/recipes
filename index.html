@@ -44,7 +44,7 @@
 		// at the top
 		$(document).ready(async function() {
 			var files = await (await fetch("recipelist.json")).json();
-			console.log(files);
+			files.sort();
 			var listOfRecipes = '';
 			var listOfLetters = '';
 			var prevLetter = '';
