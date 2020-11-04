@@ -1,6 +1,9 @@
 # RECIPE BOOK
+A super minimal recipe website, now optimized for use in GitHub Pages & GitHub Actions.
 
-A super minimal recipe website. **See it in action here: [jeffreythompson.org/recipes](http://jeffreythompson.org/recipes)**
+**See it in action here: [kvpsky.github.io/Recipes-GHPages](http://kvpsky.github.io/Recipes-GHPages)**
+
+Thank you [AN0DA](https://github.com/AN0DA) for giving me this idea, feel free to visit his GitHub!
 
 Create a new recipe as a [Markdown file](https://daringfireball.net/projects/markdown), dump it in a folder and upload. The list will auto-populate and each recipe is displayed in a nice, clean format designed for use while cooking or at the grocery store. Great for keeping track of family recipes, mods to ones you find online, or have created yourself!
 

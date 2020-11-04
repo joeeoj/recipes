@@ -6,7 +6,7 @@
 	<!-- basics -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<link rel="icon" type="image/png" href="http://www.jeffreythompson.org/graphics/favicon.png">
+	<link rel="icon" type="image/png" href="./images/favicon.png">
 
 	<!-- font and styles -->
 	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700,700i,900" rel="stylesheet"> 
@@ -42,11 +42,9 @@
 		// once document is loaded, load list of markdown files
 		// and generate table of contents, plus a quick-nav list
 		// at the top
-		$(document).ready(function() {
-			<?php
-				$files = array_map('basename', glob('recipes/*.md'));
-			?>
-			var files = <?php echo json_encode($files) ?>;
+		$(document).ready(async function() {
+			var files = await (await fetch("recipelist.json")).json();
+			console.log(files);
 			var listOfRecipes = '';
 			var listOfLetters = '';
 			var prevLetter = '';
@@ -62,7 +60,7 @@
 				else {
 					listOfRecipes += '<li>';
 				}
-				listOfRecipes += '<a href="recipe.php#' + anchor + '">' + name + '</a></li>';
+				listOfRecipes += '<a href="recipe.html#' + anchor + '">' + name + '</a></li>';
 				prevLetter = firstLetter;
 			}
 			$('#toc ul').html(listOfRecipes);
@@ -81,7 +79,7 @@
 		</section>
 		<section id="footer">
 			<ul>
-				<li>A super minimal recipe website by <a href="http://www.jeffreythompson.org">Jeff Thompson</a></li>
+				<li>A super minimal recipe website by <a href="http://www.jeffreythompson.org">Jeff Thompson</a><br />Github Pages support added by <a href="https://github.com/kvpsky">kvpsky</a></li>
 				<li><a href="https://github.com/jeffThompson/Recipes">Source code
 				
 				<!-- via: https://fontawesome.com/icons/external-link-alt -->
