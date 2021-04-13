@@ -7,7 +7,7 @@ import shutil
 
 root = Path.cwd() / 'build'
 
-if os.path.exists(root):
+if root.exists():
     shutil.rmtree(root)
 
 # make build dir
