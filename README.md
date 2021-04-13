@@ -1,65 +1,39 @@
-# RECIPE BOOK
-A super minimal recipe website, now optimized for use in GitHub Pages & GitHub Actions.
+# Recipes
 
-**See it in action here: [kvpsky.github.io/Recipes-GHPages](http://kvpsky.github.io/Recipes-GHPages)**
+Original "super minimal recipe website" by [Jeff Thompson](https://github.com/jeffThompson) and then modified by [kvpsky](https://github.com/kvpsky) to be used with GitHub Pages, then slightly tweaked be me and deployed via Netlify. Credit also to [AN0DA](https://github.com/AN0DA).
 
-Thank you [AN0DA](https://github.com/AN0DA) for giving me this idea, feel free to visit his GitHub!
+Examples:
 
-All you need to do is just fork this repository and add the SSH key pair to Deploy keys and DEPLOY_KEY Secret.
+* Original -- [http://jeffreythompson.org/recipes/](http://jeffreythompson.org/recipes/)
+* GitHub Pages -- [http://kvpsky.github.io/Recipes-GHPages](http://kvpsky.github.io/Recipes-GHPages)
+* Netlify -- [http://whatsfordinner.recipes](http://whatsfordinner.recipes)
 
-Create a new recipe as a [Markdown file](https://daringfireball.net/projects/markdown), dump it in a folder and upload. The list will auto-populate and each recipe is displayed in a nice, clean format designed for use while cooking or at the grocery store. Great for keeping track of family recipes, mods to ones you find online, or have created yourself!
+## Adding recipes
 
-Each recipe will auto-generate links to a Google image search for that dish, recipes on Serious Eats and Google, and for restaurants on Yelp (in case you burn something and need takeout fast).
+Add markdown files to the recipes folder. You can copy an existing recipe or use `template.md` as a guide.
 
-## BONUS!  
-To save your place while looking up at the ingredients, click the step you're on to highlight it. Click it again to remove the highlight, or use the left/right arrow keys to advance.
+## Local development
 
-## RECIPE FORMAT  
-In order to show up properly, your recipe's Markdown file should be named with dashes in place of spaces (ex: `rice-pilaf.md` or `saag-paneer.md`) and the file should follow this format:
-
-```markdown
-# Raspberry and Elderflower Gin and Tonic
-A delicious light-red drink
-
-## ingredients
-* 8 raspberries (frozen ok but should be thawed)  
-* Fresh thyme (optional)  
-* Gin  
-* 1/2 lime  
-* 1-2 tbsp St Germaine (or 1-2 tsp simple syrup)  
-
-## steps
-1. Muddle raspberries with 1.5 oz gin (and fresh thyme, if using)  
-2. Add juice of half a lime  
-3. Add 1-2 tbsp St Germaine (or 1-2 tsp simple syrup)  
-4. Strain into glass, add ice cubes and top with tonic 
-
-## notes
-* Replace tonic with champagne for a *French 75* mashup   
-
-## based on
-* https://www.instagram.com/p/Bq3ckR8HIDE/
+```bash
+# first build it
+$ python3 generate.py
+$ cd build
+# start local http server to view (http://localhost:8000 by default)
+$ python3 -m http.server
 ```
 
-You can optionally include info about how long the recipe takes and how many servings it makes:  
+Also good to open up the developer console and make sure there are no errors loading content.
 
-```## info  
-* Takes about 90 minutes  
-* Enough for a large biryani or a full-sized curry
-```
+## Deployment
 
-The `Ingredients` and `Steps` sections can be split with subheaders too:
+The original website was a php website that dynamically generated pages from the markdown in the recipes folder. It was cleverly converted by [kvpsky](https://github.com/kvpsky) into an html site with some javascript modifications and the addition of the `generate.py` script. This eliminates the need for server-side php and allows the site to be published as a static site with tools like GitHub Pages or Netlify.
 
-```## steps
-1. Soak urad dal for 4 hours to overnight, drain  
-2. Grind in blender until a smooth and thick paste (add a little water if necessary)  
-3. Put in mixing bowl and whip with hands for 2-3 minutes until fluffy  
-4. Add spices, herbs, and salt and whip again to combine  
+### Netlify
 
-To fry:
-1. Heat oil over medium/medium-high heat  
-2. Take a bowl of water, wet hands, and form small balls  
-3. Slide into oil and cook, flipping often, until golden  
-4. Drain on paper towels  
-```
+Steps taken from [A Step-by-Step Guide: Deploying on Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/):
 
+1. Log into Netlify and select `New Site from Git`
+2. Select GitHub, Authorize Netlify, and select the repo
+3. Configure Your Settings (the important part)
+    * Build command: `python generate.py`
+    * Publish directory: `build`
