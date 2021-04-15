@@ -1,6 +1,6 @@
 # Recipes
 
-[http://whatsfordinner.recipes](http://whatsfordinner.recipes)
+[whatsfordinner.recipes](https://whatsfordinner.recipes)
 
 Original "super minimal recipe website" by [Jeff Thompson](https://github.com/jeffThompson) and then modified by [kvpsky](https://github.com/kvpsky) to be used with GitHub Pages, then slightly tweaked be me and deployed via Netlify. Credit also to [AN0DA](https://github.com/AN0DA).
 

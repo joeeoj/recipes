@@ -11,11 +11,9 @@
 
 * `primary ingredients`
 
-secondary ingredients
+more ingredients you might already have but should check
 
-_you might already have but should check_
-
-* `secondary ingredients`
+* `more ingredients`
 
 ## steps
 
