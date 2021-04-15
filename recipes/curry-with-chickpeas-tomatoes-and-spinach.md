@@ -1,4 +1,4 @@
-# Curry with chickpeas tomatoes and spinach
+# Curry with chickpeas, tomatoes, and spinach
 
 ## info
 
