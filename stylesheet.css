@@ -161,6 +161,7 @@ a:active, a:hover {
 	margin:             0 auto;
 }
 #footer li {
+	margin-top:      0.6em;
 	margin-bottom:      0.6em;
 }
 #footer a, #footer a:link, #footer a:visited {

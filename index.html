@@ -1,7 +1,7 @@
 <!doctype html>
 <html profile="http://www.w3.org/2005/10/profile">
 <head>
-	<title>Recipe Book</title>
+	<title>Recipes</title>
 
 	<!-- basics -->
 	<meta charset="UTF-8">
@@ -40,6 +40,10 @@
 
 			return str;
 		}
+		function nameToLink(fileName, name) {
+			var anchor = fileName.replace('.md', '');
+			return '<a href="recipe.html#' + anchor + '">' + name + '</a></li>';
+		}
 
 		// once document is loaded, load list of markdown files
 		// and generate table of contents, plus a quick-nav list
@@ -47,6 +51,10 @@
 		$(document).ready(async function() {
 			var files = await (await fetch("recipelist.json")).json();
 			files.sort();
+
+			// https://stackoverflow.com/a/5915122
+			var randFile = files[Math.floor(Math.random() * files.length)];
+
 			var listOfRecipes = '';
 			var listOfLetters = '';
 			var prevLetter = '';
@@ -67,6 +75,7 @@
 			}
 			$('#toc ul').html(listOfRecipes);
 			$('#navigation').html(listOfLetters);
+			$('#footer').prepend(nameToLink(randFile, 'random') + '<br>');
 		});
 	</script>
 </head>
