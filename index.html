@@ -23,6 +23,20 @@
 	</script>
 	<script>
 
+		// found here: https://gomakethings.com/fixing-safaris-back-button-browser-cache-issue-with-vanilla-js/
+		/**
+		 * If browser back button was used, flush cache
+		 * This ensures that user will always see an accurate, up-to-date view based on their state
+		 * https://stackoverflow.com/questions/8788802/prevent-safari-loading-from-cache-when-back-button-is-clicked
+		 */
+		(function () {
+			window.onpageshow = function(event) {
+				if (event.persisted) {
+					window.location.reload();
+				}
+			};
+		})();
+
 		// handy function to create links in the markdown text
 		// via: https://stackoverflow.com/a/3890175/1167783
 		function linkify(str) {
