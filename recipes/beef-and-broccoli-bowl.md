@@ -15,7 +15,7 @@ The not-so-fit version of this recipe
 * 1/2 cup beef stock
 * lime (garnish)
 * green onion (garnish)
-* jasmine rie
+* jasmine rice
 
 secondary ingredients
 
