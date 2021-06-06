@@ -15,6 +15,7 @@ The not-so-fit version of this recipe
 * 1/2 cup beef stock
 * lime (garnish)
 * green onion (garnish)
+* 1.5 tbsp minced garlic
 * jasmine rice
 
 secondary ingredients
@@ -52,7 +53,7 @@ _start with about 15 minutes left on the sous vide_
 3. Heat large nonstick skillet over medium heat and add olive oil. After hot cook garlic for 1-2 minutes.
 4. If not using sous vide, increase to med-high and add steak. Cook for 3-4 minutes
 5. Reduce to medium. Pour in sauce and stir to avoid clumping. Then add broccoli.
-6. Cook and stir for 2 minutes then remove from heat and allow residual heat to cook for 4 more minutes. (mix in cut steak if sous vide used)
+6. Cook and stir for 2 minutes, remove from heat, cover, and allow residual heat to cook for 4 more minutes. (mix in cut steak if sous vide used)
 7. Garnish with lime wedges and chopped green onions
 
 ## notes
