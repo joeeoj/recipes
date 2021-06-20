@@ -1,4 +1,4 @@
-![ alt text for screen readers](/images/apple-touch-icon.png)
+![ alt text for screen readers](/recipes/test-image.png)
 
 
 # American Grilled Cheese
