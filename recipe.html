@@ -1,7 +1,7 @@
 <!doctype html>
 <html profile="http://www.w3.org/2005/10/profile">
 <head>
-	<title>Recipe Book</title>
+	<title>Singer Family Recipe Book</title>
 
 	<!-- basics -->
 	<meta charset="UTF-8">
@@ -11,7 +11,7 @@
 	<link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png">
 
 	<!-- font and styles -->
-	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700,700i,900,900i" rel="stylesheet"> 
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700,700i,900,900i" rel="stylesheet">
 	<link href="stylesheet.css" rel="stylesheet" type="text/css">
 
 	<!-- SHOWDOWN (markdown parser) -->
@@ -61,7 +61,7 @@
 
 		// once document is loaded, load recipe from file
 		$(document).ready(function() {
-			
+
 			// extract which recipe from url anchor
 			var filename = window.location.hash;
 			filename = filename.replace('#', '');
@@ -79,7 +79,7 @@
 					// iterate sections, add to body
 					var foundTitle = false;
 					for (var i in sections) {
-						
+
 						// get from array, add start of header tag back in
 						var section = sections[i];
 						section = '<h' + section;
@@ -88,7 +88,7 @@
 						// the markdown parser)
 						var idPattern = new RegExp('id="(.*?)"');
 						var id = idPattern.exec(section);
-						
+
 						// if no match (happens at the start of the file
 						// for some reason), just skip
 						if (id == null) {
@@ -116,7 +116,7 @@
 
 						// make any urls into links
 						section = linkify(section);
-						
+
 						// place the html inside its section
 						$('#' + id).html(section);
 					}
@@ -165,7 +165,7 @@
 							$(this).addClass('highlight');
 						}
 					});
-				}, 
+				},
 
 				// no recipe listed or some problem?
 				// redirect to the main page
@@ -218,4 +218,3 @@
 	</div>
 </body>
 </html>
-

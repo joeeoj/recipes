@@ -1,4 +1,4 @@
-# Recipes
+# Singer Family Recipes
 
 [whatsfordinner.recipes](https://whatsfordinner.recipes)
 
