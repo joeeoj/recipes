@@ -2,6 +2,8 @@
 
 `Burgers cooked on cast iron or grill`
 
+![Burger](../images/american_burger.jpg)
+
 ## info
 
 * `18min`
