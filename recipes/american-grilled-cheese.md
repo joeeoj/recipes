@@ -1,4 +1,4 @@
-![ alt text for screen readers](/recipes/test-image.png)
+![ alt text for screen readers](test-image.png)
 
 
 # American Grilled Cheese
