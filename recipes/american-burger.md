@@ -24,7 +24,7 @@
 
 Prep
 
-1. `seperate meat into 1/2 pound burgers and season liberally with Garlic Salt`
+1. `separate meat into 1/2 pound burgers and season liberally with Garlic Salt`
 2. `Slice Heirloom Tomato into 1/2 inch vertical slices`
 3. `Slice Red Onion into 1/4 inch vertical slices`
 

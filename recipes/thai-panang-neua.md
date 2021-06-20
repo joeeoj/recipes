@@ -1,6 +1,8 @@
-# `recipe-name`
+# Panang Neau
 
-`description`
+`Spicy beef curry`
+
+<img src="../images/vietnamese_bahnmi.jpg" alt="bahn mi" width="200"/>
 
 ## info
 
@@ -31,4 +33,4 @@ Cook
 
 ## based on
 
-* `link to source material`
+* https://www.seriouseats.com/panang-neua-thai-panang-curry-with-beef

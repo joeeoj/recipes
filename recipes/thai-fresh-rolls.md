@@ -2,6 +2,8 @@
 
 `description`
 
+<img src="../images/thai_fresh_rolls.jpg" alt="fresh rolls" width="200"/>
+
 ## info
 
 * `cook time`
