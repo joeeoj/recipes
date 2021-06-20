@@ -2,7 +2,7 @@
 
 `Burgers cooked on cast iron or grill`
 
-![Burger](../images/american_burger.jpg)
+<img src="../images/american_burger.jpg" alt="burger" width="200"/>
 
 ## info
 
