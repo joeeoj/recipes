@@ -1,6 +1,6 @@
 # Singer Family Recipes
 
-The Singer Family website: [Singer Recipes](https://modest-morse-a556e2.netlify.app/) 
+The Singer Family website: [Singer Recipes](https://modest-morse-a556e2.netlify.app/)
 
 Original "super minimal recipe website" by [Jeff Thompson](https://github.com/jeffThompson) and then modified by [kvpsky](https://github.com/kvpsky) to be used with GitHub Pages, then slightly tweaked by [joeeoj] and deployed via Netlify, with credit also to [AN0DA](https://github.com/AN0DA) at [whatsfordinner.recipes](https://whatsfordinner.recipes).
 
