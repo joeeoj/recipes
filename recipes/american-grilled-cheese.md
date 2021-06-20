@@ -1,6 +1,3 @@
-![ alt text for screen readers](test-image.png)
-
-
 # American Grilled Cheese
 
 A simple grilled cheese sandwich.
