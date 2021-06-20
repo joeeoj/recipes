@@ -1,4 +1,5 @@
-https://github.com/alekslovesdata/recipes-2
+![ alt text for screen readers](/images/apple-touch-icon.png)
+
 
 # American Grilled Cheese
 
