@@ -9,15 +9,12 @@ The **best easy** italian pasta salad
 
 ## ingredients
 
-* 1 lb pasta (rotini)
-
-* 1 lb salami or summer sausage (cut into cubes)
+* 1 lb rotini pasta
+* 1/2 to 1 lb salami or summer sausage (cut into cubes)
 * 3 cups cherry tomatoes (cut in half)
 * 8 oz fresh mozzarella cheese balls (cut in half)
 * 3/4 cup kalamata olives (sliced)
 * 1/2 cup red onion (sliced)
-* 1/2 cup fresh parsley (chopped)
-* 3/4 cup pepperoncini (optional)
 
 Salad Dressing
 
@@ -30,7 +27,7 @@ Salad Dressing
 * 2 tsp each dry oregano
 * 2 tsp dry basil
 * black pepper to taste
-* fresh herbs (i.e. parsley, basil, or chives)
+* (optional) fresh herbs (i.e. parsley, basil, chives)
 
 ## steps
 
@@ -41,7 +38,6 @@ Prep
 3. Slice mozzarella
 4. Slice olives
 5. Slice red onion
-6. Chop parsley
 
 Cook
 
@@ -51,7 +47,7 @@ Cook
 
 ## notes
 
-* 8 oz of salami is ok too
+* 1/2 lb (8 oz) of salami is ok too
 * Best if served chilled
 
 ## based on
