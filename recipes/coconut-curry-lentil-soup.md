@@ -13,6 +13,7 @@ Vegetarian. One pot. Could be converted into an instapot recipe.
 * 2 cans coconut milk (13.5 oz each)
 * 6 cups vegetable broth (or chicken if you don't care about it being vegetarian)
 * 2 cups sweet potatoes (2 small ones)
+* 1 onion (large)
 * 4 cloves garlic
 * 1 tbsp ginger
 * 4 packed cups kale (little less than 1 head)
@@ -23,7 +24,7 @@ more ingredients you might already have but should check
 
 * 2 tbsp olive oil
 * 1 tsp salt
-* bread
+* bread or naan
 
 ## steps
 
