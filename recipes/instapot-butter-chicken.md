@@ -46,7 +46,7 @@ Garnish / sides
 Prep
 
 1. Slice onion
-2. Mince garlic
+2. Mince ginger
 
 Cook
 
