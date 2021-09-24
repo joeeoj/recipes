@@ -11,21 +11,19 @@ The not-so-fit version of this recipe
 
 * 1 lb steak (sirloin or lean flank)
 * 3 or 4 heads of broccoli
-* 1 tbsp ginger
 * 1/2 cup beef stock
 * lime (garnish)
 * green onion (garnish)
-* 1.5 tbsp minced garlic
 * jasmine rice
-
-secondary ingredients
-
-_you might already have but should check_
-
-* 3 tbsp soy sauce
-* 2 tbsp corn starch
-* 3 tbsp sugar
 * 1.5 tbsp olive oil
+
+sauce
+
+* 1 tbsp ginger
+* 1.5 tbsp minced garlic
+* 3 tbsp soy sauce
+* 3 tbsp sugar
+* 2 tbsp corn starch (stir in at the end with an ice cube to avoid clumping)
 
 ## steps
 
@@ -49,11 +47,11 @@ Cook
 _start with about 15 minutes left on the sous vide_
 
 1. Put rice in rice cooker
-2. Make sauce with soy sauce, ginger, beef stock, cornstarch, and sugar. Set aside.
+2. Make sauce and set aside but don't add the cornstarch yet
 3. Heat large nonstick skillet over medium heat and add olive oil. After hot cook garlic for 1-2 minutes.
 4. If not using sous vide, increase to med-high and add steak. Cook for 3-4 minutes
-5. Reduce to medium. Pour in sauce and stir to avoid clumping. Then add broccoli.
-6. Cook and stir for 2 minutes, remove from heat, cover, and allow residual heat to cook for 4 more minutes. (mix in cut steak if sous vide used)
+5. Reduce to medium. Add cornstarch to sauce and add to skilled and stir to avoid clumping. Then add broccoli.
+6. Cook and stir for 2 minutes, remove from heat, cover, and allow residual heat to cook for 4 more minutes. (mix in cut steak now if sous vide used)
 7. Garnish with lime wedges and chopped green onions
 
 ## notes
