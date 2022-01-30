@@ -17,9 +17,9 @@ Sous vide
 
 more ingredients you might already have but should check
 
-* 1 tbsp kosher salt
-* 2 tbsp canola oil
-* ground black pepper
+* 1 tsp kosher salt
+* 2 tbsp canola or vegetable oil
+* ground black pepper (to taste)
 
 garnishes
 
@@ -32,21 +32,21 @@ garnishes
 
 Prep
 
-1. Peel and dice sweet potatoes
-2. Dice chiles
-3. Mix sweet potatoes with chiles, cumin, salt, and 1 tbsp canola oil
-4. Seal in bag with vacuum sealer if possible. Make sure it is weighted down (usually with misc heavy utensils)
+1. Preheat water: 85 C / 185 F
+2. Peel and dice sweet potatoes
+3. Dice chiles
+4. Mix sweet potatoes with chiles, cumin, salt, and 1 tbsp canola oil
+5. Seal in bag with vacuum sealer if possible. Make sure it is weighted down (usually with misc heavy utensils)
 
 Cook
 
-1. Bath temp: 85 C / 185 F
-2. Cook time: 1 to 2 hours
+1. Cook time: 1 to 2 hours (85 C / 185 F)
     * They are done when you can crush a sweet potatoes through the bag with a firm pinch
-4. Remove from bag
-5. Heat a cast iron on med-high. Heat up some tortillas and set aside, covered with a kitchen towel to keep warm
-6. Add 1 tbsp canola oil and saute sweet potatoes for 3-5 minutes, until charred on the edges
-7. Season with salt and pepper and juice from 1/2 lime
-7. Serve with fixins
+2. Remove from bag
+3. Heat a cast iron on med-high. Heat up some tortillas and set aside, covered with a kitchen towel to keep warm
+4. Add 1 tbsp canola oil and saute sweet potatoes for 3-5 minutes, until charred on the edges
+5. Season with salt and pepper and juice from 1/2 lime
+6. Serve with fixins
 
 ## notes
 
