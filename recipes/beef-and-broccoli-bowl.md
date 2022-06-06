@@ -16,11 +16,11 @@ The not-so-fit version of this recipe
 * green onion (garnish)
 * jasmine rice
 * 1.5 tbsp olive oil
+* 1.5 tbsp minced garlic
 
 sauce
 
 * 1 tbsp ginger
-* 1.5 tbsp minced garlic
 * 3 tbsp soy sauce
 * 3 tbsp sugar
 * 2 tbsp corn starch (stir in at the end with an ice cube to avoid clumping)
@@ -38,20 +38,22 @@ Sous vide (optional)
 
 Prep
 
-1. Slice steak in pieces 1/4 inch thick and 2 inches long (if not using sous vide)
-2. Rinse and cut broccoli
-3. Mince ginger
+1. Start rice
+2. Slice steak in pieces 1/4 inch thick and 2 inches long (if not using sous vide)
+3. Rinse and cut broccoli
+4. Mince ginger
 
 Cook
 
 _start with about 15 minutes left on the sous vide_
 
-1. Put rice in rice cooker
+1. Start rice
 2. Make sauce and set aside but don't add the cornstarch yet
-3. Heat large nonstick skillet over medium heat and add olive oil. After hot cook garlic for 1-2 minutes.
-4. If not using sous vide, increase to med-high and add steak. Cook for 3-4 minutes
-5. Reduce to medium. Add cornstarch to sauce and add to skilled and stir to avoid clumping. Then add broccoli.
-6. Cook and stir for 2 minutes, remove from heat, cover, and allow residual heat to cook for 4 more minutes. (mix in cut steak now if sous vide used)
+3. Heat large nonstick skillet or wok over medium heat and add olive oil. After hot cook garlic for 1-2 minutes.
+4. If not using sous vide, increase to med-high or high and add steak. Cook for 3-4 minutes. Set aside meat once cooked through.
+5. Reduce to medium. Add cornstarch to sauce, stir to avoid clumping, then add to pan. Then add broccoli.
+6. Cook and stir for 2 minutes, remove from heat, cover, and allow residual heat to cook for 4 more minutes.
+7. Mix meat back in to warm it up
 7. Garnish with lime wedges and chopped green onions
 
 ## notes
